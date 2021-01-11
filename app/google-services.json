@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604646594202",
+    "project_id": "walletui",
+    "storage_bucket": "walletui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604646594202:android:79fb13f435708b559a7123",
+        "android_client_info": {
+          "package_name": "com.example.walletui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604646594202-0ehjc61ndjlu0apip329b0m86cc9j72b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFs_rOzmG_INGZoGHwneZF885-EMAjx_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604646594202-0ehjc61ndjlu0apip329b0m86cc9j72b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
